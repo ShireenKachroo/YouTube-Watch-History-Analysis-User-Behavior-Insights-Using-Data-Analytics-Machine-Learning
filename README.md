@@ -1,4 +1,4 @@
-# YouTube Watch History Analysis & Viewer Segmentation
+# YouTube-Watch-History-Analysis-User-Behavior-Insights-Using-Data-Analytics-Machine-Learning
 
 A privacy‑aware, end‑to‑end data analysis and machine learning project that explores personal YouTube watch history to uncover viewing patterns and segment content consumption behavior using unsupervised learning (K‑Means clustering).
 
