@@ -90,25 +90,6 @@ The Power BI dashboard summarizes key behavioral insights derived from the analy
 
 ---
 
-## Key Insights from the Dashboard
-
-**1. Sustained High Engagement**  
-A total of **5,974 videos watched** with a steady upward trend from **2023 to 2025** indicates consistent, long-term, and goal-oriented content consumption.
-
-**2. Weekend-Focused Viewing Behavior**  
-Peak activity on **Saturdays and Sundays** suggests deliberate learning during low-workload periods rather than random or passive consumption.
-
-**3. Morning Productivity Pattern**  
-The highest viewing activity occurs during **morning hours**, aligning with high-focus, educational viewing habits.
-
-**4. Strong Technical Learning Bias**  
-Channels such as take U forward, Gate Smashers, CodeStory with MIK, and Neso Academy dominate watch counts, reflecting a **DSA- and interview-preparation-driven mindset**.
-
-**5. Learning-Centric Viewer Personas**  
-Clustering reveals structured personas (e.g., *Morning Researcher*, *Weekend Learner*), with **minimal presence of casual or passive scrolling behavior**.
-
----
-
 ## Project Structure
 
 ```text
@@ -192,4 +173,4 @@ Data Science & ML Enthusiast
 
 ⭐ If you find this project insightful, feel free to explore the notebook and adapt the approach to your own data.
 
-```
+
